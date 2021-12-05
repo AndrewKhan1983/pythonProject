@@ -16,3 +16,5 @@ new_nums = set(nums)
 new_data = frozenset([4, 1, 5, 7, 4, "55", True, False, 3, 5, 1, 5, 2])  # Создание "Замороженного" множества
 
 print(new_data)
+
+
